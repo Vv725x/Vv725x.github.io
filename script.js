@@ -3,9 +3,9 @@ const questionText = document.getElementById("question");
 const yesButton = document.getElementById("yes");
 const noButton = document.getElementById("no");
 const noImages = [
-    "images/a.jpg",
-    "images/b.jpg",
-    "images/c.jpg",
+    "/Vv725x/images/a.jpg",
+    "/Vv725x/images/b.jpg",
+    "/Vv725x/images/c.jpg",
     "images/sad.png",
     "images/cry.png"
 ]
